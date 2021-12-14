@@ -1,0 +1,37 @@
+https://github.com/amandabalceskis2021/AB.wiki.git
+
+var container = document.getElementById("container");
+container.innerHTML = [
+  '<table>',
+  '<thead>',
+  '<tr>',
+  '<th>id</th>',
+  '<th>NOME</th>',
+  '<th>CPF</th>',
+  '<th>RG</th>',
+  '<th>E-MAIL INSTITUCIONAL</th>',
+  '<th>MES E ANO DE NASCIMENTO</th>',
+  '<th>IDADE</th>',
+  '</tr>',
+  '</thead>',
+  '<tbody>',
+  '<tr>',
+  '<td>1</td>',
+  '<td>AMANDA CRISTINA CARVALHO BALCESKIS</td>',
+  '<td>317.193.328-43</td>',
+  '<td>41.603.786-0</td>',
+  '<td>AMANDA.BALCESKIS@EDUCACAO.SP.GOV.BR</td>',
+  '<td>05/1985</td>',
+  '<td>36</td>',
+  '</tr>',
+  '<tr>',
+  '<td>2</td>',
+  '<td>data</td>',
+  '<td>data</td>',
+  '<td>data</td>',
+  '<td>data</td>',
+  '<td>data</td>',
+  '</tr>',
+  '</tbody>',
+  '</table>'
+].join("\n");
