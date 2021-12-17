@@ -35,3 +35,30 @@ container.innerHTML = [
   '</tbody>',
   '</table>'
 ].join("\n");
+
+
+
+
+
+
+
+<div id="tabela"></div>
+
+<a href="https://concluintes.educacao.sp.gov.br/publica/consultapublica/Search" class="caption">Consulta Pública de Concluintes</a></div></div>
+
+<div id="tabela"></div>
+
+<a href="https://sed.educacao.sp.gov.br/ConsultaPublica/Consulta" class="caption">Consulta Pública</a></div></div>
+
+<div id="tabela"></div>
+
+<a href="https://sed.educacao.sp.gov.br/HistoricoEscolar/ConsultaPublica" class="caption">Consulta pública de Histórico Escolar</a></div></div>
+
+<div id="tabela"></div>
+
+<a href="https://sed.educacao.sp.gov.br/ValidarDocumento/ConsultaDocumento" class="caption">Consulta Certificação Exame Supletivo</a></div></div>
+
+
+<div id="tabela"></div>
+
+
